@@ -1,0 +1,4 @@
+# NeoVerse Triggered Event Log
+eventID,type,severity,isEmergency
+20,Power failure,10,1
+30,Network overload,8,1

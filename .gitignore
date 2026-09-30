@@ -1,0 +1,27 @@
+# Compiled output
+*.exe
+*.o
+*.obj
+*.out
+
+# Generated runtime data files
+engineers.dat
+events.dat
+city_logs.dat
+city_logs.csv
+config.txt
+compile_errors.txt
+NeoVerseEngine_build.exe
+
+# IDE files
+.vscode/
+.idea/
+*.user
+*.cbp
+*.layout
+*.depend
+
+# Windows
+Thumbs.db
+Desktop.ini
+

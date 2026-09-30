@@ -1,0 +1,4 @@
+# NeoVerse System Configuration
+totalEventsProcessed=1
+engineerCount=3
+sensorCount=3
